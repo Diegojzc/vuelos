@@ -2,7 +2,7 @@ package com.example.Vuelos.entities;
 
 import jakarta.persistence.*;
 import lombok.*;
-import org.hibernate.annotations.CreationTimestamp;
+
 @Setter
 @Getter
 @Builder
@@ -19,4 +19,5 @@ public class VueloEntity {
     private Integer capacidad;
     private String origen;
     private String destino;
+
 }

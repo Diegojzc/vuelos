@@ -19,4 +19,5 @@ public class AeropuertoEntity {
     private String nombre;
     private String pais;
     private String identificador;
+
 }
