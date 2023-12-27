@@ -18,4 +18,5 @@ public class UsuarioEntity {
    private String apellido;
    private String direccion;
    private String telefono;
+
 }
