@@ -19,5 +19,4 @@ public class UsuarioEntity {
    private String direccion;
    private String telefono;
 
-
 }
