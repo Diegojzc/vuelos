@@ -20,4 +20,5 @@ public class VueloEntity {
     private String origen;
     private String destino;
 
+
 }
