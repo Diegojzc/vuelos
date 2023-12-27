@@ -19,4 +19,5 @@ public class ReservaEntity {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Integer id;
     //crear domain
+
 }
