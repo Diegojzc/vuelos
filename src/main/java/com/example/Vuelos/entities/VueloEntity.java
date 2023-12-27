@@ -19,5 +19,4 @@ public class VueloEntity {
     private Integer capacidad;
     private String origen;
     private String destino;
-
 }

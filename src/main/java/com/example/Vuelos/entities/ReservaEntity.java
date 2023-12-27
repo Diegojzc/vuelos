@@ -20,5 +20,4 @@ public class ReservaEntity {
     private Integer id;
     //crear domain
 
-
 }
